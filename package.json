@@ -78,5 +78,15 @@
   "browserslist": [
     "last 2 versions",
     "not ie <= 9"
-  ]
+  ],
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henripper/primereview-vue.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henripper/primereview-vue/issues"
+  },
+  "homepage": "https://github.com/henripper/primereview-vue#readme"
 }
