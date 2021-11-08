@@ -13,6 +13,15 @@
           "slug_field": 1,
           "content_editor": 0
         },
+        
+          "title": "Category",
+          "slug": "categories",
+          "singular": "Category",
+          "metafields": [],
+          "options": {
+            "slug_field": 1,
+            "content_editor": 0
+          },
         "preview_link": "",
         "priority_locale": null
       },
